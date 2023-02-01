@@ -9,7 +9,6 @@ let ul = document.querySelector("ul");
 function addTodo() {
     let inputvalue = input.value;
     // let ul = document.createElement("ul");
-    // todolist.appendChild(ul);
 
     if (inputvalue) {
         // let ul = document.createElement("ul");
